@@ -32,6 +32,16 @@ Predicting residual US stock returns from **418k+ observations** of historical r
 
 ---
 
+### [Systematic BTC Options Trading ↗](https://github.com/AchillesMavr/BTC-Options-Trading-Algorithm)
+
+**Independent project · Pricing, hedging, and backtesting**
+
+A systematic options strategy and backtesting pipeline using **three years of Deribit data**. The work covers volatility forecasting, option pricing, Greek computation, and dynamic delta hedging through perpetuals.
+
+`Python` `SQL` `Time-series modelling` `Options` `Delta hedging`
+
+---
+
 ### [Training-Label Horizon Optimisation ↗](https://github.com/AchillesMavr/Label-Horizon-Optimization-Paradox)
 
 **Independent research · Financial forecasting**
@@ -42,15 +52,6 @@ Investigating how the training-label horizon affects forecasts when the predicti
 
 `Python` `LightGBM` `Optuna` `Chronological splits` `Purge gaps`
 
----
-
-### [Systematic BTC Options Trading ↗](https://github.com/AchillesMavr/BTC-Options-Trading-Algorithm)
-
-**Independent project · Pricing, hedging, and backtesting**
-
-A systematic options strategy and backtesting pipeline using **three years of Deribit data**. The work covers volatility forecasting, option pricing, Greek computation, and dynamic delta hedging through perpetuals.
-
-`Python` `SQL` `Time-series modelling` `Options` `Delta hedging`
 
 ## Research
 
