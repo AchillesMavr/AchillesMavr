@@ -18,7 +18,7 @@ Alongside my research, I build statistical and machine-learning models for finan
 
 | Research | Machine learning | Independent projects |
 | :--- | :--- | :--- |
-| **3 research papers** on numerical methods for surface fluid problems | **Top 3% in both QRT × ENS challenges** — stock returns and electricity prices | Options trading, backtesting, and training-label horizon selection |
+| **3 research papers** on numerical methods for surface fluid problems | **Top 3% in two QRT × ENS ML challenges** — stock returns and electricity prices | Options trading, backtesting, and training-label horizon selection |
 
 ## Selected projects
 
